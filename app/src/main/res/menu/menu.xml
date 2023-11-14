@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+
+    >
+
+
+    <item
+        android:id="@+id/AcercaDe"
+        android:onClick="AcercaDeClick"
+        android:title="@string/acerca_de"></item>
+    <item
+        android:id="@+id/Salir"
+        android:onClick="SalirDeClick"
+        android:title="@string/salir"></item>
+
+</menu>

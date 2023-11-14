@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewListConMenu</string>
+    <string name="salir">Salir</string>
+    <string name="acerca_de">Acerca De</string>
+</resources>
